@@ -12,8 +12,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GearNexus"
         tools:targetApi="31">
-
-
+        <activity
+            android:name=".Profile_Screen"
+            android:exported="false" />
+        <activity
+            android:name=".Add_new_Screen"
+            android:exported="false" />
+        <activity
+            android:name=".Chats_Screen"
+            android:exported="false" />
+        <activity
+            android:name=".Search_Screen"
+            android:exported="false" />
         <activity
             android:name=".Home_Screen"
             android:exported="true" />
