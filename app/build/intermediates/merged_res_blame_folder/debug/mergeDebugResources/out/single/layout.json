@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-mergeDebugResources-31:/layout/activity_fragments.xml",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/activity_fragments.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-mergeDebugResources-31:/layout/activity_home_screen.xml",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/activity_home_screen.xml"
+    },
+    {
+        "merged": "com.project.gearnexus.app-mergeDebugResources-31:/layout/activity_fragments.xml",
+        "source": "com.project.gearnexus.app-main-34:/layout/activity_fragments.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-mergeDebugResources-31:/layout/fragment_search.xml",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-mergeDebugResources-31:/layout/fragment_chat.xml",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-mergeDebugResources-31:/layout/fragment_profile.xml",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-mergeDebugResources-31:/layout/fragment_add_new.xml",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/fragment_add_new.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-mergeDebugResources-31:/layout/fragment_home.xml",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-mergeDebugResources-31:/layout/activity_fragments2.xml",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/activity_fragments2.xml"
+    }
+]

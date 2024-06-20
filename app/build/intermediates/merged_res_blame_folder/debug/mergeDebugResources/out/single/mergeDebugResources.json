@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.project.gearnexus.app-debug-32:/layout_activity_fragments.xml.flat",
+        "source": "com.project.gearnexus.app-main-34:/layout/activity_fragments.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/layout_activity_home_screen.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/activity_home_screen.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/layout_fragment_search.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/menu_bottom_menu.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/drawable_item_selector.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/drawable/item_selector.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/drawable_bottom_menu_background.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/drawable/bottom_menu_background.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/drawable_profile_icon.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/drawable/profile_icon.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/drawable_item_background_selector.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/drawable/item_background_selector.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/drawable_home_icon.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/drawable/home_icon.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/layout_activity_fragments.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/activity_fragments.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/drawable_bottom_background.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/drawable/bottom_background.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/drawable_search_icon.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/drawable/search_icon.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/raw_lottie.json.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/raw/lottie.json"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/drawable_add_new_icon.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/drawable/add_new_icon.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/drawable_gear_nexus_logo.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/drawable/gear_nexus_logo.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/layout_fragment_profile.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/drawable_item_selector_bottom_menu.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/drawable/item_selector_bottom_menu.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/drawable_chats_icon.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/drawable/chats_icon.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/layout_activity_fragments2.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/activity_fragments2.xml"
+    },
+    {
+        "merged": "com.project.gearnexus.app-debug-32:/drawable_bottom_menu_background.xml.flat",
+        "source": "com.project.gearnexus.app-main-34:/drawable/bottom_menu_background.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/layout_fragment_home.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/anim_slide_out_left.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/layout_fragment_chat.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/anim_slide_in_right.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/layout_fragment_add_new.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/layout/fragment_add_new.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-debug-32:/drawable_item_bottom_menu.xml.flat",
+        "source": "/home/muhammad-talha/.gradle/daemon/8.6/com.project.gearnexus.app-main-34:/drawable/item_bottom_menu.xml"
+    }
+]
